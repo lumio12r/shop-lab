@@ -1,0 +1,22 @@
+.sign-in {
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+
+    .title { 
+        margin: 10px 0;
+    }
+    .alternative { 
+        font-weight: 800;
+        font-size: 25px;
+        padding: 0 17px 0 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    .authorization {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+}
